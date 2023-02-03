@@ -1,5 +1,5 @@
 # Internshala-final-project
- this project contains the final proh=ject of my training on Data Science through Internshala.
+ this project contains the final project of my training on Data Science through Internshala.
  
  Project Statement  - In this prjoect I have to classify whether a customer will subscribe to a term deposit in bank or not. 
  We are given test and train data. 
